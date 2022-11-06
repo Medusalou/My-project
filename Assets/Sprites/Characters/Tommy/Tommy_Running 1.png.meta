@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: c262e4597cab15545b1f9247472386ea
+guid: 46662cc507f3ec54ea95190932721d2b
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -117,7 +117,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Tommy_Walking_0
+      name: Tommy_Running 1_0
       rect:
         serializedVersion: 2
         x: 0
@@ -131,14 +131,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e062da73a77eeb74399f84dd89eee56f
-      internalID: 1609709723
+      spriteID: 63f00cc32e68e2f4bbd1021f3b28e4ea
+      internalID: -2120185832
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tommy_Walking_1
+      name: Tommy_Running 1_1
       rect:
         serializedVersion: 2
         x: 32
@@ -152,14 +152,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6f8a4b1586c8c4940a1063539424ffc3
-      internalID: 728925935
+      spriteID: e1c9fa39c6b55b440830d5bb30ea3059
+      internalID: -2135714311
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tommy_Walking_2
+      name: Tommy_Running 1_2
       rect:
         serializedVersion: 2
         x: 64
@@ -173,14 +173,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4b80e77b882dafb4582d884cfe4cad03
-      internalID: 1250992522
+      spriteID: d19d5430cabdd4b4bb0e3d363d6fd97e
+      internalID: 787649457
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tommy_Walking_3
+      name: Tommy_Running 1_3
       rect:
         serializedVersion: 2
         x: 96
@@ -194,14 +194,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6c31b6e3e6ed8a542ba05e1c536298d0
-      internalID: -538415329
+      spriteID: 53052ce6328c7374e90c9cd8a48248ea
+      internalID: -1654676306
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tommy_Walking_4
+      name: Tommy_Running 1_4
       rect:
         serializedVersion: 2
         x: 128
@@ -215,14 +215,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: eb4a3df316c273d42864d7f729adddd7
-      internalID: 587411543
+      spriteID: 7a66607e9d20a1c4a953438a0646a837
+      internalID: 1490658496
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tommy_Walking_5
+      name: Tommy_Running 1_5
       rect:
         serializedVersion: 2
         x: 160
@@ -236,8 +236,50 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 45473049a6e1cee42b449455fb5e32e2
-      internalID: -1734040277
+      spriteID: 9b7367d167127654085c2a6433a1c3b1
+      internalID: -1662602056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tommy_Running 1_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 312a6b25ff50d2648ad4e782a312188f
+      internalID: 1743438202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tommy_Running 1_7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4070ad5f7af98c4469ff4551bbcfdc52
+      internalID: 1988831446
       vertices: []
       indices: 
       edges: []
@@ -253,12 +295,14 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Tommy_Walking_2: 1250992522
-      Tommy_Walking_4: 587411543
-      Tommy_Walking_5: -1734040277
-      Tommy_Walking_0: 1609709723
-      Tommy_Walking_3: -538415329
-      Tommy_Walking_1: 728925935
+      Tommy_Running 1_4: 1490658496
+      Tommy_Running 1_0: -2120185832
+      Tommy_Running 1_3: -1654676306
+      Tommy_Running 1_2: 787649457
+      Tommy_Running 1_1: -2135714311
+      Tommy_Running 1_6: 1743438202
+      Tommy_Running 1_5: -1662602056
+      Tommy_Running 1_7: 1988831446
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
